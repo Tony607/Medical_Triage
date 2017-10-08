@@ -1,0 +1,1264 @@
+Disease,class,x1,x2
+stomach ache,abdomen,10.4015032903,18.3470120115
+I am having stomach pains with diahorrea and this has been happening for a few months,abdomen,7.6933597999,15.9792956218
+stomach pain,abdomen,10.7681758865,18.0590370725
+"Addominal pain, bowels movement",abdomen,-0.891164013953,10.2861513733
+Case 14 chest pain,chest,9.23432223928,3.67278327831
+chest pain,chest,9.95863274915,3.81581603261
+I've been having chest pains,chest,9.69412996506,4.56702589891
+I have a severe chest pain,chest,9.72688206427,3.77273448568
+Chest pain,chest,9.97464679203,3.79693073371
+"Chest pain, 8/10 severity",chest,9.39903625992,4.14551520593
+Back pain ,back,14.6698067887,-9.84694659412
+back pain,back,14.669812901,-9.84694614564
+I have some back pain which started about an hour ago and I would like advice,back,14.5195329695,-10.6043230796
+I have a back pain that has been on for 45 mins ,back,14.5666561714,-10.3703430529
+back pain,back,14.66450147,-9.8320745072
+Sudden back pain,back,14.6974949293,-9.67896520912
+Viral infection ,non-anatomical,5.47762531278,-7.09958498746
+dry cough viral,chest,10.0925340683,10.5724778245
+"I have a cough and my nose is constantly running. I want to feel better, it's irritating ",chest,5.6755728738,11.0874569065
+Dry cough lasting for days,chest,10.0989880221,10.2637965845
+"Coughing,  runny nose and had a fever",chest,6.45866385596,10.8856986942
+Headache ,head,-24.9071126727,-1.2108772554
+moderate headache,head,-24.3495285539,-1.36478546637
+I have a headache which feels like a tight band around my head. It started about half an hour ago,head,-21.0693145092,-0.00240884466293
+I've got a headache ,head,-23.9203630896,-1.01728224995
+headache,head,-24.9154170772,-1.21094659114
+Sudden moderate headache,head,-24.1225892218,-1.43570780894
+Palpitations ,chest,13.579110131,8.87915086155
+fast heart beats,chest,12.1563878852,6.47716807588
+"I have an odd racing feeling in my chest, I don't know how to calm it",chest,7.91710731237,4.57884717206
+I've got palpitations ,chest,13.6432502228,8.80849246825
+Heart palpitations,chest,11.8077651843,6.19060391815
+Palpitations and very stressed,chest,12.7907943009,8.66000888536
+pain when eat,abdomen,-2.23559279493,11.4214311702
+"I have a burning sensation in my mouth, I noticed two white sores a few days ago, is this a mouth ulcer?",mouth_face,4.94066054929,-19.3535532901
+I think I have mouth ulcers,mouth_face,3.99724132985,-18.9131607392
+White sores in mouth.,mouth_face,5.05946868906,-20.8824294783
+"Painful mouth, when eating, drinking and swalling",mouth_face,3.18425478125,-16.0777713289
+Weight loss,non-anatomical,-3.8078971444,-3.69328077365
+I've been losing a lot of weight recently and I am worried,non-anatomical,-2.98627480656,-3.83364270757
+I am unintentionally loosing weight ,non-anatomical,-4.0654343549,-3.85247540604
+Loss of weight.,non-anatomical,-4.10445300739,-3.76999718726
+Weight loss for last 6 months unintentionally,non-anatomical,-2.75143845213,-3.07936042741
+Vagina bleeding ,sexual_health,-3.3698132125,18.6114872118
+vaginal pain,sexual_health,-2.56447807824,18.5178286416
+"I have some period pains, cramping, discomfort",sexual_health,-8.16066620916,4.76178106016
+I have got a bad period pain and I don't know what to do ,sexual_health,-8.47167777359,4.95741883442
+Numb fingers ,hand,20.6731984684,3.96256889493
+numb finger,hand,20.7182620455,3.85795596254
+"I am having pain in my left hand which is worse at night, my thumb and first two fingers in particular ",hand,18.4763183152,3.1130657075
+I am having pains and numbness in my left hand ,hand,19.1182253411,3.17974238698
+I have numbness in my fingers.,hand,20.6587171435,3.98283745105
+Fingers numbless very morning when I wake up,hand,19.872005261,5.69618385104
+My eye is red and swolen,eye,-11.7521504679,10.7801100807
+red eye,eye,-12.4274275206,12.2925256352
+there is a yellow discharge from my eye,eye,-9.90654108414,13.2568831721
+Red eye with yellow discharge,eye,-9.5172033526,12.8877279391
+My eyes are red,eye,-12.1308900269,10.544747293
+My eye is oozing liquid,eye,-11.7866009408,10.870975633
+My arm is grazed,arm,-17.561534951,-8.49044133698
+I have a cut,arm,3.35469321685,-3.06106337397
+graze on arm,arm,-16.7228174065,-8.57682632455
+I've grazed my arm,arm,-17.1033088184,-8.76926904241
+Grazed arm from a fall,arm,-16.3966930345,-8.56889652611
+I got a small cut,arm,3.55537789541,-2.31182484903
+I've hurt my arm,arm,-17.3947379008,-9.11410833828
+fever itchy nose sneezing,nose,-17.3452034546,10.106089563
+I keep sneezing,nose,5.27151995664,6.59539578385
+"Unexpectedly have a runny nose, cold and itchy eyes",nose,-16.4774315473,10.2302797035
+I got a cold,non-anatomical,-0.526979676309,-3.02434223324
+Pain in my stomach,abdomen,11.487356085,17.3169392376
+Several questions re pain,abdomen,1.36307871137,-0.97502165824
+I think I might need my appendix out,abdomen,1.6341184332,9.26348280268
+"Severe stabbing pain in right abdomen with a small lump, i'm really worried it could be appendicitis",abdomen,8.93435288153,15.3245977104
+I have a really bad pain in my belly,abdomen,11.6742790342,16.5999885159
+My stomach is killing me!,abdomen,11.0546176655,18.2675022693
+Discharge from my penis,sexual_health,-6.20414852482,19.997307331
+Discharge from willy,sexual_health,-5.75379070047,19.0709422599
+white discharge std,sexual_health,-6.07638289415,15.86684414
+I have a discharge from my penis,sexual_health,-6.54522708798,19.9325963372
+I have discharge coming from my penis,sexual_health,-6.55146964495,19.9465088491
+I have a problem when I pee,sexual_health,0.505456918895,5.10559217886
+My penis is fucked,sexual_health,-5.53820796135,20.4551113586
+Ankle pain,foot,-7.94069610777,-16.5667635911
+Bad ankle pain,foot,-7.96044016905,-16.5682238544
+ankle sprain,foot,-7.86560296129,-16.6682819061
+Really severe ankle pain after a fall whilst running,foot,-8.06267353473,-16.8495410643
+My ankle hurts,foot,-7.72522630819,-16.4704738965
+I sprained my ankle whilst running.,foot,-7.81218224683,-16.6909825636
+Its painful when i wee,sexual_health,1.20719979316,4.11308166136
+Difficult to per,sexual_health,2.75830471613,-2.56676588773
+pee stinging,sexual_health,0.383167808069,6.25240216875
+It hurts when I pee,sexual_health,0.480955495696,4.85625867926
+"I am experiencing stinging when I use the toilet, and more frequent than usual. Its quite painful and making it difficult to go to work",sexual_health,-3.14568884796,7.03886582992
+I pee very little,sexual_health,0.6736639827,6.09453720643
+I have sharp pain when I wee.,sexual_health,0.886765555125,3.7326614521
+Soft lump on my back,back,17.4488095309,-9.28053594012
+Lump on back,back,17.4437746123,-9.22651532643
+doughy lump on back,back,17.4654668815,-9.16363565279
+I have a growth on my back,back,16.8192154735,-9.70395813943
+"I have a small lump on my back that I discovered in the shower. Its quite small and doesn't hurt, but I'm worried",back,17.783042831,-10.2932242409
+I have a soft lump on my back,back,17.4199112692,-9.32624070351
+I have a soft lump on my back,back,17.4301776538,-9.32723136649
+Im tired all the time,non-anatomical,-6.09068540921,-4.13701004012
+Feeling tired,non-anatomical,-6.62265438271,-3.99014704702
+low blood sugar tired headache,non-anatomical,-22.8197990027,-2.30935015432
+I feel very lethargic,non-anatomical,-6.8437558455,-4.29696203937
+Feeling really run down,non-anatomical,0.239293541988,-4.69745709467
+I'm knackered all the time,non-anatomical,-6.26660563861,-4.78878988899
+My lip has a sore on it,mouth_face,6.8264438002,-21.3826228216
+Sores,mouth_face,10.8021958658,-0.964368854059
+burning sores on lips,mouth_face,5.74116960517,-21.9087509593
+I have a tingling lip,mouth_face,6.15481775749,-22.5491928013
+Small sores on lower lip with slight tingling sensation,mouth_face,6.45808477145,-21.2030551595
+My lower lip hurts,mouth_face,7.10327609151,-21.5149784595
+My lower lip is really sore,mouth_face,7.0350822477,-21.5095699917
+Sore throat trouble swallowing ,mouth_face,1.66502858643,-18.7050681166
+difficulty swallowing,mouth_face,5.84335287347,-17.539848198
+cold won't go away,chest,-0.493930197615,-3.16847326317
+it feels like my throat has something stuck and while eating its quite painful while swallowing,mouth_face,2.81481902824,-16.3234877084
+Headache,head,-24.9025370492,-1.21038625351
+"Hello, I am a 71 year old male. I have had an uncomfortable throat for several months, along with difficulty swallowing solid food",mouth_face,2.66386082222,-16.2649368581
+I have a sore throat,mouth_face,1.32249893305,-18.9715759642
+Sore throat,mouth_face,1.32243497199,-19.0110318225
+Constipation ,abdomen,0.380020952629,13.1422214696
+I am suffering ,non-anatomical,0.359493503362,-3.80527811304
+suffering constipation ,abdomen,0.244170417505,12.9328998483
+why am I still constipated?,abdomen,0.659055375663,12.3949469204
+i can't bear the pain in my stomach,abdomen,11.5594123965,17.2214022465
+Constipation ,abdomen,0.362937798558,13.1292991194
+I am struggling with bowel movements,abdomen,1.33771655814,10.8379953417
+some stomach problems,abdomen,11.0472265836,17.9943197669
+Changed bowel movement,abdomen,1.39445785991,10.836969307
+I have fallen over and hurt my head ,head,-17.511975325,-1.99407379776
+I fell over this more and hit my head ,head,-17.4161704376,-1.82875566434
+Concussion?,head,-25.0220784763,-2.48858511494
+I hit my head,head,-17.6187034739,-2.11995974717
+i have hit my head and have a bruising and black eye,head,-17.6921614516,-0.740770580876
+Head injury,head,-18.4298661389,-2.01678867969
+not feeling too good,non-anatomical,0.0654137474881,-4.73633177992
+Head injury and consequent symptoms,head,-18.7258781487,-1.90300923883
+Brain bleeding symptoms,head,-5.19742459452,-8.49602494112
+I have an ear ache,ear,15.3349089961,-3.46919747355
+My ears hurt ,ear,15.908798137,-2.47268621895
+I have an Earache ,ear,13.6244436282,-3.86691092126
+I've got earache in one ear,ear,15.1895068732,-2.84342990315
+i feel pain in my ear,ear,15.8984001527,-2.14889440857
+described earache,ear,13.1912756648,-4.03414014213
+Hearing loss and possible blockage by wax,ear,14.5881455596,-3.92961178591
+I have bad pain when having sex,sexual_health,-12.0303512822,3.81992228647
+Sex is very painful,sexual_health,-13.1340642422,4.28416101112
+I have pain during sex ,sexual_health,-12.1321447226,3.85290237201
+throwing up after sex,sexual_health,-11.6624599145,5.33291105483
+i have pain while performing coitus,sexual_health,-11.6484588196,3.83524669893
+I am concerned I may have an STD,sexual_health,2.570997237,2.94704151933
+pain during sex,sexual_health,-12.1920007643,3.87767817703
+Pain after intercourse,sexual_health,-12.1132535926,3.86395565801
+I am experiencing pain having sex using the merina coil,sexual_health,-12.1473673501,3.87092663969
+i feel nausea,abdomen,0.0132601443279,14.3818146231
+Feeling sick after taking prescribed medication for infection surrounding tooth abscess ,abdomen,1.96978139857,-14.11356648
+Intermittent episodes of bloating & diarrhoea ,abdomen,-1.21993435324,12.5648029695
+Bloated and uncomfortable after eating ,abdomen,-1.77751412496,11.8989734957
+Constant bloating ,abdomen,0.258811567398,13.4506724215
+i have had excessive gas lately,abdomen,3.54075027969,-1.9451786766
+wind and diarrhoea,abdomen,-0.652551396683,12.5466418092
+"Described bloating, diarrhoea and passing wind more frequently after eating certain foods, but not able to identify cause.",abdomen,-1.20222867067,12.1723335114
+Excessive dry skin on scalp for past 6 months,dermatology,-3.70412069459,-11.1967291125
+i have dry skin on my hair,dermatology,-3.79006332067,-11.2586804477
+Runny nose changed into coughing ,nose,5.57600298312,11.1098295657
+Coughing up white gunk ,chest,10.9274713327,10.5424290344
+Runny nose turn to cough ,chest,5.5558152351,11.1087910978
+Shortness of breath ,chest,12.5082469176,9.37988322395
+really bad cough,chest,9.32635233196,10.400516978
+I am struggling to breath some times and now have a cough,chest,10.0483832289,8.5312076473
+short of breath,chest,12.5443034321,10.0349219066
+Concerned that recent cough maybe result of smoking,chest,8.79179279058,8.99677387102
+Burns when passing water,sexual_health,4.19288269114,-1.60992891098
+I have burning pain when I wee,sexual_health,0.828607884488,3.74461815677
+Burning when I pee ,sexual_health,0.402062299503,5.27850911863
+Pain on urinating ,sexual_health,-1.25978805373,5.26111001544
+painful urination,sexual_health,-0.672941515397,6.3710223453
+i have pain while peeing,sexual_health,-0.922439735153,4.85335860532
+Urinary tract infectiom,sexual_health,-2.46092711423,16.8094662177
+I am experiencing burning when using the toilet,sexual_health,-2.74968033449,6.97429844466
+Burning on passing urine,sexual_health,-0.772658440424,5.97280577837
+I have lower back pain and it burns when I pee. Why?,back,14.5034038225,-11.0046436995
+i have mildly painful eye,eye,-11.6797602972,12.4170413524
+Painful eye,eye,-11.7853812399,12.4044424855
+my eyelid is red and swollen. Its a bit painful,eye,-9.80456493236,11.4195180625
+painful eye,eye,-11.7947837849,12.3859631463
+"""My eye hurts""",eye,-11.6208756374,12.4746156403
+I have a sore eye,eye,-11.6841203945,12.5139178277
+i have a productive cough and runny nose,chest,6.16329424619,10.9759740295
+Cough,chest,9.5445620719,10.6250741845
+"I have had what I think was flu, its left me with a nasty cough and runny nose for a few days now",chest,5.73925612755,11.0243964106
+runy nose,nose,-18.0063894519,10.0236616141
+I have a bad cough and runny nose,chest,6.16837910546,10.9786909734
+I have a cough,chest,9.39489760014,10.478924979
+i feel dizzy,non-anatomical,-7.45352442182,-3.83035844876
+Dizziness,non-anatomical,-7.24608560441,-2.60796196893
+"I keep feeling dizzy, it's really worrying me!",non-anatomical,-7.61952076543,-3.17514852742
+feeling dizzy,non-anatomical,-7.64843244357,-3.40893003743
+I feel really dizzy,non-anatomical,-7.44751096766,-3.85154203638
+I've been feeling dizzy,non-anatomical,-7.6110388047,-3.43540518632
+voice change,mouth_face,5.13572460943,-14.6374104841
+I've been losing my voice over the past few weeks,mouth_face,5.06384104147,-15.0545211843
+voice has changed,mouth_face,5.17579128357,-14.6347296939
+My voice is weird,mouth_face,5.41202617673,-14.4308684874
+My voice is hoarse,mouth_face,5.41118820095,-14.3769613694
+nose bleed,nose,-17.8051809564,10.2662254603
+bleeding from his nose,nose,-18.1342782531,10.0628175133
+I've just had a nose bleed,nose,-17.7889266377,10.3836440058
+nosebleeds,nose,5.14979171321,6.50965881639
+I got a nosebleed,nose,5.17345388912,6.51781750696
+I've got sudden nose bleed,nose,-17.8088461335,10.3035405818
+pain going too loo,nose,-2.64378239419,5.7782843783
+pain when going to the loo,abdomen,-2.70777069076,5.85982190112
+my bum was bleeding when I went to the toilet,bottom,-3.52123289021,2.72117827119
+blood in my pooh,bottom,-4.42854273183,4.31352259115
+It hurts to poo,bottom,-4.66333895591,5.65663703451
+Painful using the toilet,bottom,-2.52772704015,6.89601587213
+hair on face,mouth_face,-2.59522831752,-12.5103365785
+hair growing on face,mouth_face,-2.51442664625,-12.4771754655
+I've got hair growing on my face and I look awful. I'm getting bullied.,mouth_face,-2.31338699811,-12.7367490591
+hair growing on upper lip,mouth_face,-1.7250023055,-12.5928054967
+I have excess hair growing on my face,mouth_face,-2.62410561609,-12.5636854436
+I've got hair on my face!,mouth_face,-2.62359752913,-12.5993918089
+i have a painful wrist,hand,20.9927812555,2.88629732982
+painful wrist,hand,21.0131784922,2.89358433355
+I punched the wall and now my fist really hurts,hand,17.9272347794,4.0525443808
+painful wrist,hand,21.0008124879,2.90742093815
+Very painful wrist,hand,21.0361717749,2.84594354248
+"My wrist hurts, it's painful",hand,21.2082647582,2.73394134397
+burnt hand,hand,19.5572270197,4.16739159876
+burnt hand,hand,19.5554388535,4.16473814435
+I burnt my hand on an iron,hand,19.2156070351,5.08076651175
+burnt hand,hand,19.5572286697,4.16739216774
+I burned my hand,hand,19.7524516234,4.07924599767
+I burnt my hand,hand,19.7284189013,4.08882109537
+Sore lips like blisters,mouth_face,5.90433310297,-22.8499010799
+Sore lips like blisters,mouth_face,5.90433339499,-22.8499009776
+Sore lips like blisters,mouth_face,5.90433315028,-22.8499010276
+Sore lips like blisters,mouth_face,5.90418447319,-22.8660552674
+Sore lips like blisters,mouth_face,5.90433317058,-22.8499010861
+Sore lips like blisters,mouth_face,5.90430355483,-22.8498671048
+Sore lips like blisters,mouth_face,5.90433344277,-22.8499010041
+I have a sharp pain in my  and difficulty in breathing ,chest,12.0269289063,8.13179583645
+i think I'm having a heart attack,chest,11.8285055259,6.52531173654
+I've got some sudden chest pains,chest,9.67863733109,4.52852980263
+"My heart has closed up and feels very tight, what shall I do?",chest,10.5126051568,6.79092889141
+I have sudden onset chest pain,chest,9.35091976888,3.69321658564
+"I have an adominal migraine and I occasionally vomit, has got worse from stress",abdomen,-3.61354947528,13.8478872009
+I have abdominal pain,abdomen,9.37088333035,17.5375220542
+I have had sporadic pain in my stomach area and recently has been more frequent. What shall I do?,abdomen,7.90207602359,15.6014096778
+I have bouts of vomiting and abdominal pain,abdomen,7.85633181865,16.5092866183
+stress vomiting,abdomen,-1.25533291577,13.1472867404
+Swollen legs with varicose veins got worse when standing ,leg,-10.8936053328,-10.3776040636
+i have varicose veins,leg,8.032502412,-7.0256112303
+I have varicose veins that get worse when standing,leg,8.16775439223,-7.04259080921
+problems with legs and veins,leg,-11.1791651513,-11.1121671328
+I need to urinate a lot more than usual,sexual_health,-0.0126977876678,7.56122227859
+I have thirst and urgent urination,sexual_health,-0.873675014526,7.73161927596
+I goo to wee too much ?,sexual_health,1.61319643108,4.84877749197
+I might have std as have swollen testicals  and pain urinating,sexual_health,-2.01813649611,5.17948229041
+i have discharge coming out of my cock,sexual_health,-5.97490972944,16.5006668009
+"My penis is leaking discharge and my urination is hurting, do I have an STD?",sexual_health,-5.08110180848,20.200478011
+I have penile discharges,sexual_health,-4.8684561014,18.8475638241
+pain on my penis and discharge ,sexual_health,-5.84904610009,20.5788982642
+Have a lump in my breast,breast,2.75515310322,18.5648420059
+i have lumpy tits,breast,1.51079927432,6.22717577604
+"I have a small lump on one of my breasts, its not tender and Im worried it might be breast cancer",breast,2.42526602663,18.8777967154
+I have a breast lump,breast,3.34074744788,17.9988348974
+breast lump,breast,3.41982889467,17.925872835
+Have blister on right foot,foot,-6.45744193856,-17.7834570895
+i got a blister on my foot,foot,-6.50567328848,-17.8143613735
+I have a blister on my heel,foot,-6.56109590314,-17.9799242363
+"I have a blister on my foot and its been hurting for 3 hours, what shall i do?",foot,-6.0417262296,-18.1402965143
+I have a blister on my foot,foot,-6.50495269305,-17.7979276749
+Sharp left shoulder pain with swelling ,arm,-16.9786137704,-11.2032006429
+my shoulder hurts,arm,-17.1804252515,-11.3881718692
+Sharp pain in left shoulder,arm,-17.6410953687,-11.0856380745
+My left shoulder hurts after going to the gym and now it is swollen,arm,-16.3974926774,-11.238036323
+I have a weights induced shoulder pain,arm,-17.0319435326,-10.5598997758
+shoulder pain after the gym ,arm,-16.7501754858,-11.1066871955
+Short sighted feeling dizzy when sqinting ,eye,-7.2883868024,-2.66478974321
+i cannot see very far,eye,-11.3236060131,8.73868103637
+I can't see very well,eye,-11.4327410662,8.70980854738
+I have blurred vision thats giving me a headache,eye,-19.4532473371,2.17327354195
+I have issues seeing things far away,eye,3.98188660172,0.891078377031
+Ive got blurred vision over distance,eye,-10.5362537622,9.95856755139
+can't see properly,eye,-11.4255162533,8.71412582952
+I am suffering from recurring dry eyes,eye,-11.7506596012,11.9217602925
+Dry painful eyes ,eye,-11.9636506188,12.0930417555
+Have you tried using any eye drops,eye,-10.271841283,12.1375538579
+I have Dry Eyes,eye,-12.0642816279,11.8002477321
+"Hi im worried about my eyes, they are frequently very dry and can be quite uncomfortable",eye,-9.77423189413,11.398009246
+"I have had a problem with my eyes, vision is fine but my eyes are dry",eye,-10.0766974175,11.3473303226
+Dry eyes,eye,-12.2057231875,11.8518980477
+My eyes are dry,eye,-12.0133253872,10.6367783233
+ i have dry eyes,eye,-12.0619656221,11.8196107273
+I got dry eyes and its very uncomfortable,eye,-10.3861100491,11.3820289277
+Dry painful eyes ,eye,-11.9553327683,12.0783443987
+I have a headache and a fever that isn't going away,head,-22.0494294196,0.399248979174
+Fever for two days,non-anatomical,-5.47964441832,-2.4672740205
+I have a bad headache and a dry cough for 2 days now. Its getting worse,head,-22.1746541234,1.43011846689
+Hello I think I have flu,non-anatomical,2.77455029634,-5.47620620692
+Hi i've got a fever and really quite concerned as it's getting worse,non-anatomical,-1.64094810673,-3.33172224068
+I've had a headache for 2 days and a fever,head,-21.8884868115,0.291177105664
+I have fever and cough,non-anatomical,9.30897067679,10.733812239
+headache with fever,head,-25.0588545553,-0.350593683859
+i got a headache and fever for past two days,head,-22.0960017316,0.249558639795
+Fever for two days,non-anatomical,-5.48519188998,-2.45124280061
+"Hi i have woken up with a sore mouth, and i feel like i've not slept",mouth_face,3.94787401462,-16.503254126
+I am getting short of breath really easily especially after exercise,chest,10.1655802619,8.37864362085
+Shortness of breath,chest,12.5056801356,9.37911515345
+I have shortness of breath after minor exercises,chest,11.0032487849,8.57756675516
+"Hi, I've become very weezy and wish to see a doctor ASAP",chest,3.0322438307,-7.25480402287
+i am struggling to breathe on a regular basis,chest,10.4243729199,8.27637804324
+I'm getting short of breath after a few minutes of exercise ,chest,10.2725928102,8.41096118398
+Breath difficulty,chest,12.5860438743,10.0590152222
+i have asthma,chest,8.1144251607,7.74902477672
+for past two months i been having shortness of breath after few minutes of exercise.,chest,10.6633514311,8.40240575889
+Shortness of breath,chest,12.5071251718,9.37939031609
+I've had a headache for about half an hour,head,-21.6390525868,0.254514781376
+Tight headache ,head,-24.5324409986,-1.08425738538
+I have a headache all over the front of my head,head,-21.1596346443,-0.393249562991
+I've been experiencing a really bad headache ,head,-23.6893311629,-0.921185732694
+Hi i've got a headache. It's not killing me but it is unusual for me to have any pain there,head,-21.1207337025,0.626789256769
+I have got a headache that has come on in the last 30 minutes ,head,-21.5247093744,0.288684348055
+I've got a headache ,head,-23.830288781,-1.00958663706
+My head hurts,head,-17.74979741,-2.23384046184
+headache,head,-24.9154907953,-1.21094355585
+ive got a headache for past 30minutes,head,-21.7110888614,0.212174693217
+Tight headache ,head,-24.525578312,-1.09200185028
+I have a lump around my anus that is getting bigger. It hurts to sit down,bottom,-4.35413918733,1.87770956438
+Lump on anus,bottom,-4.6424443646,2.18072277251
+I have a lump round my bum. It is getting bigger,bottom,-2.94397589002,1.90103837064
+I have an absess in my anal area,bottom,-2.36121016413,8.31424838036
+Hi i've got a lump on my ass and really quite concerned. it's been there for over a week and i can't sit down,bottom,-2.96573781114,1.76574600568
+"I have a lump on my bum, it's been getting bigger over the past couple of days",bottom,-2.98860358575,1.87169594407
+Anal abscess ,bottom,-1.58357246178,16.8412837187
+My ass hurts,bottom,-1.36064058451,2.65333904425
+have a lump on my anus,bottom,-4.61724239376,2.17760236747
+i got a painful lump around anus and its been getting bigger,bottom,-4.39321257165,1.98909120931
+Lump on anus,bottom,-4.68457551057,2.18578757635
+I have pins and needles down my arm after leaning on it all day. Have I done permanant damage?,arm,-15.8478243621,-8.53041690105
+Arm tingling,arm,-17.111299974,-8.10360401985
+I have had pins and needles in my arm and have been leaning on it. help,arm,-15.8956161773,-8.49277673534
+"oh i really need help. my arm is tingling and has been for a while, is it neurological. I read something about that.",arm,-15.5485638737,-8.51169439269
+I've got pins and needles down my arm,arm,-16.8554631744,-8.5545517088
+I can't feel my arm,arm,-17.7719219649,-9.05185191182
+tingling in my arm,arm,-17.1519384309,-8.46150786906
+Arm tingling,arm,-17.1700096844,-7.91595223298
+I have really painful periods that make me sick and gives me headaches. I have to take time off work.,sexual_health,-7.95698670332,6.77647290992
+Agonising periods,sexual_health,-8.68552601445,2.5061083632
+I have really bad periods pains and have done for the past 6 months,sexual_health,-8.39368903107,4.82781352938
+I seem to be suffering from bad period pain,sexual_health,-7.98190218548,4.21481667612
+Hi i often feel nauseous and headaches. I get abdominal pain and often have to miss work.,abdomen,-3.19058905292,13.4562814119
+Severe period pain for the last 6 months ,sexual_health,-8.23139239101,4.55251220562
+Serious period pain,sexual_health,-8.05193490002,4.2025913118
+My period hurts in excess,sexual_health,-8.74494319891,3.86141178283
+painful period cramps,sexual_health,-8.08040262169,4.86457855979
+period pains for past 6months,sexual_health,-8.43596089723,4.48171998281
+Agonising periods,sexual_health,-8.7297598196,2.61762407063
+I have a painful and stiff knee that makes it harder to walk around,leg,-9.48028971862,-10.9670409418
+Knee pain,leg,-9.79084346342,-12.6909173038
+I have really bad knee pains especially when walking up and down stairs,leg,-9.36185870753,-11.1187362246
+I am suffering from really bad knee pain and wonder if it could be someyhing serious,leg,-9.37383122181,-10.9482482707
+"Hi i constantly have sore joints, especially my knee. The girls down the bridge club told me about osteoarthritis, is it this? ",leg,-9.71063280963,-10.1987687158
+"I've got a stiff knee, it hurts walking up and down stairs ",leg,-9.42800010833,-11.1098449646
+My knee is getting worse,leg,-9.83683153627,-11.8870082238
+i have knee pain,leg,-9.79820125706,-12.7349674491
+past few months i been having pain in front of my knee,leg,-9.89995280953,-12.9554381234
+Knee pain,leg,-9.79084564717,-12.690920409
+"I have a sore throat, cough and a headache.",non-anatomical,7.78744559929,-12.003599645
+Sore throat,mouth_face,1.31485093813,-19.0092234904
+2 days ago I got a sore throat and now have a headache,mouth_face,7.52867760896,-12.4315162593
+I have a very sore throat,mouth_face,1.31131351145,-18.9671729156
+I've been taking paracetamol for a sore throat for two days but it's not getting better,mouth_face,2.61533095946,-16.3461981691
+I've got a sore throat,mouth_face,1.30150570494,-18.9649625671
+I have a dry cough associated it a headache it started 2 days ago and got a fever as well. Took some paracetamol ,non-anatomical,8.20344024258,9.11365602967
+I have a cold,non-anatomical,-0.523505946185,-3.03840629514
+sore throat and headache,mouth_face,7.51881925743,-12.4558550003
+i got dry cough and headache past two days since i had throat pain,chest,8.01338606467,9.28674406065
+Sore throat,mouth_face,1.32243496825,-19.0110318978
+My toenail is hurting and has a yellow colour that seems to be spreading,foot,-5.15983729552,-17.7976812461
+my toenail looks discoloured and is sometimes painful when I press on it. It's yellowy-white and seems to be spreading,foot,-5.1523873665,-17.8109800002
+painful toenails ,foot,-4.84134891539,-17.1064724366
+I've been having constant heartburn,abdomen,-1.81831392963,13.9826729633
+"Hello, I've had heartburn for months and it's getting worse. Especially after food or laying down.",abdomen,-2.65243019736,13.7194267512
+I have heartburn  it has becoming worse especially after a meal,abdomen,-2.56373365605,13.7152624454
+Heartburn,abdomen,-1.48752029399,14.0592070537
+Worsening heartburn,abdomen,-1.6719574789,14.0072111727
+Long lasting heartburn,abdomen,-2.05018644172,13.8439450421
+Continuous heartburn with meals and at night getting worse ,abdomen,-2.42177565624,13.5606684947
+Something is not right with my stomach,abdomen,11.657031164,17.4538328258
+I have regular heartburn late at night,abdomen,-2.37572858034,13.6873062053
+I have a burning pain in my chest that won't go away,chest,8.21171049792,4.39475374475
+heartburn worse after big meal and at night,abdomen,-2.47210803099,13.6826144381
+heartburn symptoms ,abdomen,-1.58013039771,14.0350839948
+I have stomach pains after eating,abdomen,7.93582196053,16.4236183058
+"Hi, I've had ringing in my ears for a few months and it won't go away - I think it's affecting my hearing.",ear,16.5540180448,-3.76013226591
+I have ringing in my ears,ear,15.8415612744,-2.66505998927
+Ringing in ears,ear,15.6778899113,-2.74895606094
+Difficulty hearing,ear,14.2952928267,-3.33484049366
+Ringing in my ears,ear,15.7762465079,-2.68929514004
+Ringing ears and slight hearing loss,ear,16.0634699931,-3.54287010159
+My hearing is getting worse,ear,14.5909244272,-2.9606133428
+I have a constant ringing in my ear and difficulty hearing sometimes,ear,16.2421745374,-3.43192337573
+I have had some ringing in my ears for some time and I find it hard to hear,ear,16.5572627463,-3.62697347707
+ringing in ears,ear,15.7064459274,-2.75907249408
+i have hearing problems,ear,14.3468123209,-3.36244473382
+I have ringing in my ears and hearing loss,ear,16.1906116013,-3.4539777809
+Vaginal bleeding,sexual_health,-3.06850926432,18.0660949659
+"Hi, I've been having some bleeding but not during my period.",sexual_health,-6.11370663437,7.6935138833
+My vagina is bleeding,sexual_health,-3.92067009335,19.267308353
+Vaginal bleeding ,sexual_health,-3.05117745119,18.0646217653
+vaginal bleeding,sexual_health,-3.06856523926,18.0660025056
+Vaginal blood loss out of periods,sexual_health,-2.98904959146,17.9342210863
+Bleeding outside of cycle ,sexual_health,-6.0503238185,7.84604714769
+I have been suffering from light bleeding when not on my period,sexual_health,-6.11799214713,7.6782391896
+I have found some light spotting in my underwear and I'm not sure what it is,sexual_health,1.98523795928,6.83251392513
+light vaginal bleeding outside period,sexual_health,-2.90937440466,17.9835629522
+I am spotting betwee periods,sexual_health,-8.71404639962,2.38341545829
+I've had a lot of diarrhoea this week,abdomen,-0.685375023275,12.3356577652
+I have adominalpain and there is blood when I go to the toilet,abdomen,-3.05180877755,6.8622015753
+Blood in urine,sexual_health,-1.00344926827,5.9573882429
+Blood in stools,bottom,-3.78467610584,3.83244732994
+Bowel motions loose and more often than usual,abdomen,1.31462157021,10.7948750536
+"blood in stool , and stomach cramps ",abdomen,-0.353938273888,9.90155640945
+I'm shitting blood,bottom,-0.626010639114,3.76157383223
+I have noticed blood in my stools,bottom,-3.80816672988,3.80983282701
+"On a few occasions, I have had to rush to the toilet in the middle of the night.  There was blood in my urine.",sexual_health,-3.0123961776,7.18612269131
+blood in stools,bottom,-3.79892305039,3.83358490736
+blood in my poo,bottom,-4.42786925717,4.19994743987
+I have sharp stomach pains and blood when I poo,abdomen,7.17848867402,15.821084274
+Lumps on neck ,neck,11.7210505769,-14.4123658254
+"Hi, I've got quite a few lumps on my neck.",neck,11.6939737103,-14.3802369346
+I have lots of lumps on my neck,neck,11.7128159238,-14.4055407759
+Lump on my neck,neck,11.7262670478,-14.4174949064
+Lump on neck,neck,11.7198561071,-14.407673598
+Asymptomatic neck lumps remove,neck,11.4254661439,-13.9703655637
+Lumps on neck ,neck,11.7163112244,-14.4072432998
+My neck has some lumps can I get rid of them?,neck,11.4406079169,-14.0637855741
+I have noticed some lumps on my neck,neck,11.7179643651,-14.411682978
+I have a lump on my neck and I want to get rid of it,neck,11.4810204559,-14.1220986943
+unattractive lumps on neck,neck,11.6972932246,-14.3780296762
+lump pn my neck,neck,11.7270424523,-14.4235440058
+I have lumps on my neck,neck,11.7150105771,-14.4076996656
+"Hi, I've got a swelling in my groin and it hurts suddenly, and now it's in my balls",abdomen,13.1169722159,14.8192678424
+I have a swelling in my right groin,abdomen,13.180155913,15.2398104113
+Groin swelling ,abdomen,13.244401259,15.3875978893
+Swollen groin,abdomen,13.2987811222,15.3082977446
+sore groin growth,abdomen,13.3400914072,15.2761210876
+My groin is painful,abdomen,13.2786822104,15.2890730673
+I have severe pain in my right groin,abdomen,13.1543293647,15.2464771557
+I have a swelling in my groin which is really painful,abdomen,13.1689395393,14.9644917203
+swelling in groin,abdomen,13.230995121,15.3017503824
+painful groin area,abdomen,13.2682350801,15.2738449672
+I have pains and swelling in my groin ,abdomen,13.1901739925,15.2296325732
+Feeling generally unwell,non-anatomical,-3.68844090679,-2.37534032383
+problem sleeping and eating ,non-anatomical,-3.65111480365,-4.14273532195
+Iv had a fall.  my hips hurts,leg,-10.5662873674,-12.0438441024
+Fell and hurt hip,leg,-10.078831998,-13.0253842834
+Fall on right hip brusing and servere pain ,leg,-8.93082784941,-11.734952591
+My hips are really bad ,leg,-10.9478195327,-11.4226607776
+I had a fall recently and there is a bruise on my hip,leg,-10.6337783919,-12.9842194969
+right hip bruised and painful after a fall,leg,-9.21439333325,-11.5573779096
+bruised hip,leg,-10.0563199151,-13.1092698642
+I have sharp pain in my hip,leg,-10.0157091785,-13.1901403287
+I have a swollen infected ear after having it pierce,ear,16.5023303386,-3.32511879582
+I have a red ear,ear,16.2416147858,-2.41644974287
+Yes,ear,2.38146450092,-2.74983091613
+my ear is red and swollen and I've had a recent ear peirfcing,ear,16.5740514933,-3.07413619016
+Swollen ear,ear,16.145180385,-2.17632682411
+Red swollen painful ear after piercing,ear,16.6718120856,-2.71644783695
+I think I have an ear infection,ear,15.683256088,-4.07992216864
+My ear bloody hurts,ear,16.0997748391,-2.61163651809
+My ear hurts,ear,15.9590049701,-2.38881210246
+Itchy eyes and throat,eye,-14.9995783032,10.5126389692
+I have a sore throat,mouth_face,1.31432889313,-18.9680180077
+had allergy as a child but now my throat and eyes itch,mouth_face,-0.224994547707,-13.6078765526
+Ive got nasal congestion,nose,-17.3522135982,10.9605009207
+"Itchy throat nose and eyes, red teary eyes",nose,-16.3699676877,9.84870102529
+I have bad congetion,nose,3.26915384668,-2.49876988582
+Sore and red skin ,dermatology,11.6077517464,-0.205206122594
+I have skin irritation,dermatology,11.6144977952,0.461978196769
+Skin redness,dermatology,11.4867755359,0.390953449757
+"male skin blemish, using girlfriends face wash",dermatology,6.80254319604,-4.70182934793
+Ive got a skin reaction,dermatology,11.2379177035,-0.0979546726726
+"Possible reaction to skin care, red and sore face",dermatology,-0.436363475628,-12.3347608803
+My skin is reacting,dermatology,12.098514522,0.239928467276
+Swelling hot leg,leg,-10.7466671859,-12.7441143419
+I have pain in my right leg,leg,-10.2905332275,-13.0349330924
+Pain right leg,leg,-10.2927848654,-13.0055578006
+"pain in leg, I'm female",leg,-11.5248433977,-11.7250059032
+Ive got a swollen right leg,leg,-10.6650539518,-12.6270357122
+"Swollen painful red legs, possible thrombosis?",leg,-10.9082800402,-10.4570741591
+Swollen and painful leg,leg,-10.6599651969,-12.706413799
+Painful right leg (and wrote an essay with TMI),leg,-10.0037600846,-10.2356429973
+I am afraid the pain in my leg might be symptomatic of something more serious,leg,-9.81743587658,-10.401103116
+Trouble going to the toilet,abdomen,-2.46976044221,7.35379736171
+I'm constipated ,abdomen,1.78460458266,13.7362146654
+Haven't been to loo,sexual_health,-2.05362140652,7.50328446659
+constipated,abdomen,0.968240773302,13.3435743498
+Ive got constipation,abdomen,0.280331074703,12.9271062092
+Constipated for two days,abdomen,0.0457642035282,11.4168133492
+I have constipation,abdomen,0.384612467437,12.8917020925
+I have spots,dermatology,6.42427218548,-0.908324491948
+I have spots on my forehead,dermatology,-1.99380654012,-14.3732301674
+Hi I have spots on forehead,dermatology,-1.99989755489,-14.2952731922
+i got acne on forehead,dermatology,-1.96760537205,-14.0662496562
+Ive got spots on my forehead,dermatology,-1.99284297557,-14.3632952577
+"Lots of facial spots, painful acne",dermatology,-1.59603388279,-11.9039511142
+I got spots my bro.says its acne I don't want it its on my face what do I do,dermatology,7.1204785168,-4.54508521669
+I have really bad spots,dermatology,6.46500917233,-0.877617194604
+I have clear vaginally discharge,sexual_health,-4.66136862812,17.9726617362
+I have clear vaginal discharge ,sexual_health,-4.16408923364,18.1186740395
+Clear discharge from vagina,sexual_health,-5.77427786171,18.8573836886
+vaginal discharge,sexual_health,-3.90970517931,18.0687905229
+Ive got pus from my vagina,sexual_health,-6.23469632163,18.7996990294
+"Discharge in underwear every day, is this normal??",sexual_health,-5.53558990174,17.4253953156
+Problem with vagina,sexual_health,-5.72442199486,18.6309162924
+I have discharge from my vagina,sexual_health,-6.00933363811,19.1058755291
+"I have a lot of vaginal discharge, is this normal?",sexual_health,-4.15845521172,17.9663373987
+Painful elbow,arm,-17.9408997317,-11.6574431844
+I have pain in my right elbow,arm,-17.9343041557,-11.4907261753
+Elbow pain ,arm,-17.5988762096,-11.4722159814
+pain in blow for 2 months,arm,0.797211632111,-0.639153520069
+Ive got pain in my right arm,arm,-17.5210068926,-9.78796816946
+Elbow pain,arm,-17.5641680874,-11.4203521205
+Pain in arm,arm,-17.4862531723,-9.72408891316
+"Had a dodgy elbow for 2 months now, not sure how to ....(then accidentally clicked send)",arm,-15.5104230594,-9.24840121664
+My elbow hurts,arm,-17.8135161185,-11.7073961965
+I think i have a corn ,foot,3.08617439369,-2.81196785759
+I have corns,foot,-4.63835871408,-16.7036382517
+Pain when walking ,foot,0.572491252618,-0.695325088724
+pain on foot tender skin,foot,-6.52900121561,-17.3311590286
+I think i have a corn,foot,3.11990626715,-2.77131620925
+painful feet when i walk,foot,-7.82434225952,-17.5104214825
+tender and sore foot,foot,-7.10613617885,-17.1816721792
+I think I have a corn or a verruca,foot,7.37572431589,-6.57976777015
+I think I have a corn on my foot,foot,-6.63249831323,-17.5744094176
+I keep needing a wee,sexual_health,1.55234795486,4.26883525775
+Im going to the loo more often,sexual_health,-2.06150296637,7.56650241391
+"thirsty, often pee, maybe diabetes?",sexual_health,-0.132504894386,7.20226432449
+Peeing frequently,sexual_health,0.165436336022,6.60812345393
+My periods have stopped ,sexual_health,-9.11480516264,2.85695813866
+My periods have stopped,sexual_health,-9.07602748324,2.85512033994
+period have stopped,sexual_health,-9.10960965822,2.78083611128
+I haven't had my period in the last three months,sexual_health,-9.16763793601,2.99356149755
+Cut my finger and dirt has got in,hand,20.1384273347,5.51370337008
+Dirty wound,hand,4.8887356645,-2.54383569691
+finger cut,hand,20.5171202877,4.98060449067
+When would a wound be considered infected?,hand,3.7119516154,-8.68942189859
+I cut my finger whilst gardening,hand,20.1995210665,5.49692206823
+I've cut my finger whilst gardening and it is quite deep and there is some soil in it.,hand,20.081295948,5.77642218141
+I've cut my finger whilst gardening,hand,20.1988528255,5.48837628133
+Mouth is burning white patches visible ,mouth_face,4.47266648328,-19.3032447793
+White patches mouth,mouth_face,5.00087714977,-20.8849533829
+I have mouth pain,mouth_face,3.1118760179,-20.2738482948
+My mouth hurts,mouth_face,3.0316444848,-20.2321533566
+I've got a burning sensation in my mouth with a horrible taste and some white spots. ,mouth_face,4.87007560214,-19.3978899319
+Mild burning sensation in mouth,mouth_face,4.07522007215,-20.5291063755
+I've got a headache aid the light makes it worse ,head,-21.3435354633,0.257356599041
+ My head hurts ,head,-17.7497989363,-2.2338204878
+I got a headache,head,-23.9857133556,-1.0366231217
+migrane sysptons and cure?,head,-23.8610337133,-2.62616689366
+I've got a migraine,head,-23.8695756038,-2.12168676078
+I've got a really bad headache that is worse in light and I feel sick. ,head,-21.5269481211,0.740474651164
+Really bad headache made worse with light,head,-21.5819979218,0.155178239298
+I have dry skin,dermatology,11.7065259265,-0.0296228806548
+"I do not have eczema but I have very dry skin, how can I fix this?",dermatology,6.23123161893,-8.28743031974
+my skin's itchy,dermatology,12.1772128733,0.547710713245
+I've got really dry skin that is getting worse and nothing seems to help.,dermatology,10.6532193943,-0.0423762777414
+I have really dry skin. Concerned about itchy eczema,dermatology,11.1773015461,0.429244364951
+Can't wee for 10 hours post op ,sexual_health,2.43339312693,3.63974439503
+I have stomach pain,abdomen,10.9095111798,17.7331522085
+I have abdominal pain,abdomen,9.371565903,17.5541222703
+i can't piss,sexual_health,-0.247574127884,4.0121297645
+I haven't been able to go to the toilet for a couple of hour's and my stomach hurts. ,abdomen,6.27333963316,14.7856538225
+abdominal pain post surgery,abdomen,8.5072831485,18.0465373851
+Chest pain when I move ,chest,9.00249251471,4.08346054471
+My chest hurts,chest,10.7977949577,3.7892234916
+I got a chest pain,chest,9.82083680704,3.8208334459
+my chest hurts,chest,10.8536286577,3.78579497015
+I've been going to the gym a lot and started getting chest pain. ,chest,8.83369964455,3.69476815137
+chest pain when moving,chest,9.42293427255,4.02692329202
+Discharge from the ear ,ear,15.325781174,-3.59060918341
+Ear pain,ear,15.7424271149,-2.37430385507
+I have ear infection,ear,15.6944585758,-4.06143935591
+my ear hurts,ear,15.9625425328,-2.34617210739
+I'm getting green stuff coming out of my ear and it is starting to hurt. ,ear,16.5767967942,-3.10370821628
+Ear infection with discharge,ear,15.7053120194,-4.30764561203
+Do I have haemorrhoids,bottom,1.1384111897,9.716966327
+Bum bleeding,bottom,-3.46658936268,3.16765518663
+I have rectal bleeding,bottom,-1.72678146604,17.0786911186
+i'm shitting blood,bottom,-0.517262996842,3.95698327007
+My bum sometimes bleeds but not when I go to the toilet. ,bottom,-3.36176798894,2.54514100725
+rectal bleeding,bottom,-1.71534004813,17.048935898
+headache blurred vision tired,head,-21.5905728794,-1.33349033205
+I'm so tired and my head and teeth hurt,head,-16.6260659402,-2.00134513769
+pleasing,head,2.37525127975,-2.79505371531
+seriously bad headache,head,-23.8668437732,-1.59049817938
+I have a headache and I'm feeling very tired,head,-22.4870885337,-0.698187978011
+my head is pounding and i feel sick,head,-18.0119848555,-2.81087371054
+Head hurts,head,-17.9874792572,-1.94459097697
+"I've got a really bad head it hurts when I eat and brush my hair. My sight is getting fuzzy, I don't have a temperature or anything else.",head,-17.5763621087,-0.795922429055
+painless lump face,mouth_face,7.30817130506,-18.7260576456
+weird lump on my face,mouth_face,7.35982110362,-19.7411980733
+cyst on face,mouth_face,7.37388962718,-19.1483858215
+I have a lump on my face,mouth_face,7.34253734255,-19.7455273929
+i have a lump on my face ,mouth_face,7.35494837572,-19.7255796969
+Lump on face no pain,mouth_face,7.29463280535,-19.7710707715
+"I've got a lump on my face it doesn't hurt and hasn't got any bigger since i've had it, it also doesn't affect me but as it's been there a while I thought I'd get it checked out.",mouth_face,7.0901775834,-19.8193020768
+pain swallowing,mouth_face,5.86793194592,-17.5473190026
+It hurts to swallow,mouth_face,6.05021292748,-17.115002742
+pain swallowing,mouth_face,5.879220628,-17.5162418252
+it hurts when i swallow,mouth_face,6.08154505405,-17.1038375479
+Painful swallowing,mouth_face,5.91482814838,-17.4789393018
+"it hurts when i swallow and feels like food is getting stuck going down. i can cope with liquids or soups but now losing weight I have no other symptoms but it""s not getting any better.",mouth_face,3.05461159249,-15.1304442151
+upper abdominal pain,abdomen,9.38311824012,17.6744763493
+My tummy hurts so fucking bad,abdomen,11.4503800177,18.5332562141
+pain in abdomen,abdomen,11.3127434109,16.1246436568
+I've got intermittent pain in my upper abdomen,abdomen,11.4269218867,16.0319582768
+i have a pain in my abdomen,abdomen,11.3953009795,16.1065916071
+Pain in the abdominal area,abdomen,10.2336560873,16.2209391518
+When I eat I get pain in my belly sometimes over the last few months it's worse if i eat a big meal. I have no other symptoms.,abdomen,8.07258579006,15.0892503198
+hot sweaty less heavy period,non-anatomical,-8.27667960891,0.583459455798
+I''m hot and sweaty,non-anatomical,-6.60953587988,-5.10047137147
+hot and sweaty,non-anatomical,-6.49922889973,-5.09308132508
+I'm feeling hot and sweaty all the time ,non-anatomical,-6.54753160859,-5.03973393422
+i feel hot and sweaty ,non-anatomical,-6.62624326829,-5.02895767428
+periods less heavyand hot,sexual_health,-9.15015700286,2.68680202969
+"Over the past year I get hot and sweaty regularly, my periods are less heavy and i have a lot of energy.",non-anatomical,-8.30005088193,0.659134834973
+sore throat fever fatigue,mouth_face,1.10184428436,-18.0780908648
+I have a rash on my arms and chest,dermatology,-16.0189724483,-7.37141017261
+sore throat fever,mouth_face,1.28348183089,-18.4534844066
+I am tired and have a sore throat and fever,mouth_face,0.955906280979,-17.6268785038
+my throat hurts ,mouth_face,1.72786984234,-19.9020982273
+Sore throat and fatigue,mouth_face,1.0815228385,-18.0337316429
+"I've got a sore throat and fever and tiredness, it hurts to swallow and today I noticed a rash on my arms and chest and when i press it it goes away",mouth_face,2.04009876221,-16.2437333507
+itching vaginal discharge,sexual_health,-3.93683849681,17.9798412658
+White discharge from my pussy,sexual_health,-7.06973792459,19.4784103988
+thick itchy discharge,sexual_health,-6.32087600851,15.006094557
+My vagina is itching ,sexual_health,-3.99297430777,19.3793019303
+i have a discharge,sexual_health,-6.10719913016,15.791499956
+Vaginal itching and thick discharge,sexual_health,-3.54201502662,17.8738864831
+I have a thick itchy white discharge,sexual_health,-6.31927906669,15.0094396479
+lower back pain and leg,back,14.3415405847,-10.0523951967
+SHARP pain in back,back,15.4556082035,-9.45987566523
+lower back pain,back,14.6795753843,-9.9344903558
+I have really bad pain in my lower back,back,15.3616344881,-9.60574880313
+my lower back hurts ,back,15.2192884366,-10.4649797644
+Lower back pain from lifting,back,14.6179303301,-10.1342654627
+I have really bad lower back pain thats travelled down my leg,back,14.2726509858,-10.1947373424
+itchy dry skin,dermatology,11.6549400679,-0.092818056051
+red itchy skin,dermatology,11.5231821306,0.351903240445
+itchy dry skin,dermatology,11.6399535654,-0.0811340479746
+My skin is itchy,dermatology,12.2519012256,0.561819342605
+my skin is itchy and dry ,dermatology,12.2393429676,0.620446439528
+Itchy and dry skin,dermatology,11.6082641682,-0.0345823841471
+i have itchy sore skin and hay fever,dermatology,10.7972907044,0.859542466325
+abdominal pain between periods,abdomen,8.59047869008,17.9620157697
+Periods are killer,sexual_health,-9.16698479134,2.71547508167
+sharp abdomen pain,abdomen,10.9182283335,16.504428533
+I feel sharp pain in my abdomen ,abdomen,11.4018436084,16.0982364045
+i have sharp abdominal pain,abdomen,9.4536708858,17.7854386275
+Sharp pain with period,sexual_health,-7.95016481159,3.75145752947
+I have pain in between periods sharp pain,sexual_health,-7.74431502848,4.24301382066
+abdominal pain,abdomen,9.32151111773,18.1674251135
+Regular stomach aches and going to the toilet a lot,abdomen,7.19335941311,15.7740887038
+I am suffering loose stools,abdomen,-0.672436265502,10.1436936116
+I have recurrent abdominal pain ,abdomen,9.14983757076,17.3272258398
+Loose stools,abdomen,-0.626938566648,10.1177574733
+Abdo pain and diahorea ,abdomen,1.37132154299,-1.0078479334
+Noticing abdominal pain,abdomen,9.41434771722,18.1000534927
+"Hi, I've been having abdominal pain and passing stools several times a day for the last three months.",abdomen,8.63026976683,16.137353336
+I have bad abdominal pain and loose tools ,abdomen,8.92243009685,16.5629312464
+loose stools,abdomen,-0.62720402121,10.1176575755
+Loose stools,abdomen,-0.630708703299,10.100585051
+chest pain,chest,9.95863144175,3.81574962562
+Severe chest opain and shortness of breath,chest,9.44643472485,4.99659940012
+My chest is hurting,chest,10.9488450438,3.79477455911
+I have chest pain,chest,9.80605757171,3.83806742038
+Shortness of breath,chest,12.5082440884,9.37988106334
+Severe pressure pain and shortness of breath ,chest,12.2119786836,8.58672944441
+I have chest pain,chest,9.80612211528,3.82808039209
+chest pain,chest,9.95863727149,3.81584357281
+Hi I have had intense pain in my chest for the last day and it us getting worse. ,chest,8.15986994582,4.42635750148
+I've got chest pains ,chest,9.76816484673,4.55877833857
+shortness of breath,chest,12.5082442898,9.37988187069
+I'm having chest pains and short of breath,chest,9.58822925499,4.93957592594
+Back pain,back,14.6698129293,-9.84694622626
+Backpack after lifting ,back,-2.25775693935,-2.81106270492
+My back is killing me,back,15.1941768267,-10.7604938442
+I have back pain,back,14.7424257592,-9.7524206188
+Back hurts,back,15.0540441376,-10.2338559843
+Pain in back after lifting box ,back,14.8780566082,-10.0723150564
+back pain,back,14.6698129352,-9.84694616113
+pain in my back,back,15.4412512305,-9.53476417342
+Hi I've developed back pain after lifting a heavy box.,back,14.5699541134,-10.1967111175
+Back pain from heavy lifting ,back,14.5809079984,-10.0893928402
+back pain after lifting heavy box,back,14.5494553849,-10.1625040101
+My back is really hurting,back,15.2186648169,-10.6455350244
+Viral infection,non-anatomical,5.47796501085,-7.09967551767
+"Coughing,  runny nose and fever",chest,6.48840689239,10.9101085172
+I can't stop coughing,chest,12.3504235013,10.7174066385
+I have a dry cough,chest,9.44376457843,10.5342643955
+Dry cough,chest,9.57010334781,10.6592924145
+Cough and running nose,chest,6.38098532537,11.0611107531
+viral infection,non-anatomical,5.47796543015,-7.09967542051
+viral infection ,non-anatomical,5.49786826131,-7.12212377821
+"Hi, I've had a runny nose and fever for the past six days with a dry cough.",nose,5.46292859371,11.1128393279
+I've got a cold ,non-anatomical,-0.49924739899,-3.02299738003
+"dry cough for 6 days
+",chest,10.0934325079,10.2780487537
+My throat is dry and my nose keeps running,mouth_face,-17.9473934507,9.77632435383
+Headaches and tight head,head,-21.3414331124,-1.05494430439
+I have a strong headache,head,-23.9791672013,-1.01864117032
+I have a headache,head,-23.9020709525,-1.01220074324
+Head feels tight,head,-18.096979937,-2.09463021502
+Headache ,head,-24.9027698398,-1.21036236897
+headaches,head,-24.9725398479,-1.1288600972
+i have a headache ,head,-23.78007537,-1.00839669102
+I've got a headache,head,-23.9203657039,-1.01728228271
+Painful headache ,head,-24.4438993865,-0.929645774062
+headache for 30 minutes,head,-21.729323978,0.137526843432
+My head is throbbing,head,-17.6795943954,-2.4318340612
+Palpitations,chest,13.5436369163,8.8920316416
+My heart is going crazy!,chest,12.6785465214,6.28701638324
+I have palpitations,chest,13.6454172974,8.8016823889
+Heart is racing,chest,12.3509416576,6.41975249648
+Palpitation,chest,13.5309084862,8.99035230803
+palpitation ,chest,13.5299160186,9.00267167688
+Palpitations ,chest,13.5437156399,8.89204701873
+Heart racing for 15 minutes,chest,11.4038438081,6.61754178499
+My heart is racing,chest,12.7119835068,6.27868402392
+I ha e sores in my mouth,mouth_face,5.00438251421,-20.8166515241
+My mouth is full of ulcers,mouth_face,4.1216975351,-19.0137948995
+I have burning sensation inside my mouth,mouth_face,4.08185875606,-20.5707307983
+Burning mouth pain,mouth_face,3.23710553509,-20.3129052016
+Burning sensation in my mouth with mouth sores ,mouth_face,4.54796654709,-19.3312327249
+mouth ulsers,mouth_face,3.73618926326,-19.450011079
+i have mouth ulcers ,mouth_face,4.01194041109,-18.9303502004
+I have some white sores inside my mouth and my mouth feels like it's burning.,mouth_face,5.42039284848,-20.0413667678
+trouble eating and drinking due to burning sensation inside mouth,mouth_face,2.07573979327,-14.5068440552
+It hurts when I eat,mouth_face,-2.37945240314,-4.91862676431
+Weightloss over the last six  months,non-anatomical,-2.38954378013,-2.71221982533
+I am loosing too much weight,non-anatomical,-4.22899661736,-3.89044796833
+I have been losing weight,non-anatomical,-4.26244577651,-3.87488996081
+Weight loss and constipation,abdomen,-2.49294941992,12.4163114971
+Weight loss and constipated ,abdomen,-2.56705577773,12.3320283376
+I've lost some weight over the last six months and been constipated.,abdomen,-2.76829695967,12.2836058921
+Lost weight and got constipation ,abdomen,-2.62592928132,12.3792704818
+unintentional weight loss over the last 6 months,abdomen,-2.5765325323,-2.96773404758
+I have weight loss and constipation,abdomen,-2.6301100782,12.3936347814
+Adominal pain and discomfort,abdomen,1.39434007072,-0.910474816667
+I have been bleeding for over three days,sexual_health,-6.03693797562,7.78266977132
+I have abdominal pain,abdomen,9.37156438301,17.5541222619
+Vaginal bleeding,sexual_health,-3.06856291341,18.065962472
+Bleeding with abdominal pain ,abdomen,9.28295708201,16.9985906632
+i have period pains ,sexual_health,-8.32070285248,4.22494184619
+I've had vaginal bleeding for the last 3 days with pain in my abdomen.,sexual_health,-2.0390701776,18.0075842144
+vaginal bleeding for past 3 days with discomfort,sexual_health,-2.73109738249,17.9882274988
+Pain in one hand,hand,19.0629207833,2.96877805835
+My hand is feeling numb,hand,20.1360798466,4.33945768014
+I have pain and numbness in one hand,hand,19.179684374,3.0607613984
+Pain and numbness in one hand,hand,19.2069192222,3.08388910864
+Pain and numbness in hand ,hand,19.2459049163,3.10945315247
+I've had pain and numbness in my hand for a few weeks.,hand,18.7700409725,3.22420341913
+Numb fingers ,hand,20.640549913,3.95609597733
+finger numbness at night,hand,20.5279602883,4.92614401973
+My fingers feel numb,hand,20.6167104244,4.34030011736
+Yellow discharge ,sexual_health,-6.17829285088,15.5165149022
+i have sticky eyes,eye,-12.1228885599,11.9329412772
+yellow discharge in eye,eye,-9.82904886609,13.2699443801
+I have red eye and some sticky fluid coming out of my left eye,eye,-10.1896000385,11.7100246869
+I have a red eye with a discharge,eye,-9.49848713796,12.9084836553
+itchy pussey eye,eye,-12.5151560016,12.4050897288
+I'm feeling an uncomfortable feeling in my eye. I can't open them up and I have discharge in my eyes,eye,-9.70899054727,11.9016255716
+I have a red eye with lots of discharge...its rli painful and my eyelids are stuck shut.. I normally wear lenses but haven't changed them..what do I do ?,eye,-9.19717777413,12.458782179
+My eye is watering ,eye,-11.8146015384,10.8933232949
+I have yellow discharge from my eyes,eye,-9.8321029702,13.2592316797
+"Hi there, I think there is something wrong with my eye. ",eye,-10.9436961258,12.4122474867
+"uncomfortable in the eyes , with  yellowish discharge ",eye,-9.503759265,12.8919456881
+Graze on arm,arm,-16.7334527403,-8.59058756182
+i cut my arm,arm,-17.2185743583,-8.79063855067
+minor graze,arm,4.04005470374,-2.43484171911
+i've grazed my arm and its quite sore,arm,-16.3606947616,-8.62045202971
+grazed arm,arm,-16.9734053526,-8.76314771172
+Fell over and grazed my arm ,arm,-16.9118490066,-8.69342305419
+ouch.. I grazed my arm 2 hours ago .. I have a small wound,arm,-16.2109365849,-8.57630789559
+graze on arm,arm,-16.7334527259,-8.59058755782
+"Hi there, I have fallen and wounded my arm ",arm,-16.8827213519,-8.78636598638
+i have a small wound on my arm,arm,-16.9099318641,-8.4514000481
+Sneezing ,nose,5.25665448786,6.5981276956
+i have itchy eyes,eye,-13.011790756,11.3760510829
+runny nose sneezing itchy eyes,eye,-16.534788231,10.1501021195
+I can't stop sneezing!,nose,5.25904326906,6.55846894292
+itchy nose and sneezing,nose,-17.3293410537,10.1974234241
+itchy eyes and nose lots of sneezing,eye,-15.2373424057,10.4617793261
+Constant sneezes and runny rose with itchy eyes ,nose,-15.4674437274,10.4446316403
+I've been sneezing constantly .. have a runny nose and itchy eyes.,nose,-16.4477617642,10.2875077527
+I keep sneezing ,nose,5.25780950127,6.58427321591
+Runny nose and sneezing,eye,-17.0745530937,10.3468006162
+I'm not sure if I have a cold. ,non-anatomical,-0.568181184443,-3.15612171413
+im sneezy with a runny nose and itchy eyes,nose,-16.3984716289,10.2310814854
+Pain in abdominal ,abdomen,11.09412135,16.1748521665
+i have abdominal pain,abdomen,9.371566034,17.5541222412
+abdominal pain and reduced appetite,abdomen,8.96286400704,18.573539528
+I can feel a lump in my abdominal,abdomen,11.7279632094,15.7954366817
+a lot of pain in lower stomach,abdomen,11.5090392463,17.0320613723
+lower right pain in abdomen,abdomen,11.2726686604,15.9817533534
+Abdominal pain ,abdomen,9.32117505155,18.1668551378
+"it hurts in my lower abdomen on the right side and I can feel a lump omg am I dying
+?",abdomen,9.05345640319,15.2915872402
+I have a stomach pain,abdomen,10.8712798608,17.7868544737
+abdominal pain,abdomen,9.31748346632,18.2057701711
+i have a lump in my lower abdomen,abdomen,11.7269318973,15.7860771721
+Discharge from penis ,sexual_health,-5.84291608099,19.8448745382
+discharge from penis,sexual_health,-5.8183763255,19.8591970558
+penis discharge,sexual_health,-5.2208069559,19.7878691387
+i have discharge coming from my penis,sexual_health,-6.55146989392,19.9465088315
+discharge from my penis,sexual_health,-6.4289311445,19.9696820731
+discharge from penis,sexual_health,-5.84291629016,19.8448771328
+White substance coming out of my penis ,sexual_health,-7.47854478187,20.3130674767
+I've got white clear stuff coming out of my penis.. I have sex loads with different people ,sexual_health,-6.82345283655,20.6856890562
+My dick hurts ,sexual_health,-0.943968155807,2.78207640976
+discharge from penis,sexual_health,-5.84291560813,19.8448769819
+I have discharge coming from my penis ,sexual_health,-6.55311653354,19.9533436932
+I have a discharge from my penis,sexual_health,-6.55891837091,19.937475289
+Pain in ankle ,foot,-8.1212021997,-16.1911400268
+twisted ankle,foot,-7.93973726875,-16.4507483603
+twisted left ankle,foot,-8.00727682509,-16.3645485236
+ive' got really bad pain in my ankle,foot,-8.12357734772,-16.2409824335
+twisted ankle a lot of pain,foot,-8.03106677963,-16.7677680114
+twisted ankle whilst running,foot,-7.86885125735,-16.7675604841
+Pain in my ankle ,foot,-8.07556611717,-16.2267642639
+I was running a marathon and twisted my left ankle the pain has lasted four hours ,foot,-8.19138057408,-16.8511470282
+twisted ankle,foot,-7.93430869983,-16.4460807225
+I've twisted my ankle. ,foot,-7.89276703756,-16.386483165
+pain in the ankle,foot,-8.1710429305,-16.2140253188
+Pain when urinating ,sexual_health,-1.28892483486,5.28382447039
+painful when peeing,sexual_health,-0.105082176779,5.14332065485
+stinging and painful when peeing,sexual_health,-0.0789718004678,5.3121793182
+it stings when I go to pee,sexual_health,0.511124884094,5.1892017164
+painful when urinating ,sexual_health,-0.754334904591,5.57026949909
+hurts when i wee,sexual_health,1.13916345015,4.01929883129
+Painful when I wee,sexual_health,1.11460747419,4.0402222876
+it stings when I wee,sexual_health,1.39731837139,4.27276525281
+Stubs when I pee ,sexual_health,0.540890420425,5.26131083541
+peeing pain,sexual_health,-1.64170003298,4.91210409926
+Stinging and pain when I see. ,sexual_health,7.01826600524,-1.91995484571
+stinging and painful when peeing,sexual_health,-0.114152102544,5.24391700528
+Lump on back ,back,17.4640366529,-9.21098272428
+lump on back,back,17.4437744015,-9.22651529841
+lump on back,back,17.4437743584,-9.22651527015
+i've noticed a weird lump on my back,back,17.3642636838,-9.34118479919
+lump on my back,back,17.4169410511,-9.27948914113
+i have found a lump that is painless,back,7.08960522029,-4.10364650937
+Lumpy back ,back,16.9848797506,-9.30812199952
+I've got a soft lump on my back it's like one cm ,back,17.661434101,-10.0035335766
+lump on back,back,17.4437743862,-9.22651527204
+I have a lump on my back. ,back,17.3998465635,-9.33442866372
+lump on my back ,back,17.4076053804,-9.28364395646
+Tired ,non-anatomical,-6.35016709211,-3.94033090519
+I'm feeling really tired and have a headache,head,-22.5042884266,-2.31240538474
+feeling very tired,non-anatomical,-6.59232165834,-4.05132876846
+feel fatigue and headache and weight loss,non-anatomical,-22.5188706434,-2.30270558366
+Feeling tired all the time ,non-anatomical,-6.26878950943,-3.9706655039
+I have a headache and I'm tired.. I haven't eaten much today and I've lost some weight .. I'm very very stressed ,head,-22.3021471716,-0.523523034824
+Feel dizzy ,non-anatomical,-7.2802053735,-3.64093609814
+head ache and tired,head,-18.1326227918,-2.39971092785
+"Have a headache, feel tired and had weight loss",head,-22.1529348033,-0.363000201777
+i've a headache and feel tired ,head,-22.7428425164,-0.875134865373
+Sores on lip ,mouth_face,5.85504631123,-21.6189688096
+tingling lip,mouth_face,6.23141124898,-22.6224004396
+tingling and burning in mouth,mouth_face,4.23188193744,-20.6135906495
+I have a burning feelign on my lip,mouth_face,6.55948004582,-21.6724524932
+cold sore on lip,mouth_face,6.58338657763,-22.0598257637
+I have a tingle sensation on my lip,mouth_face,6.62842964878,-21.8971595489
+sore on mouth,mouth_face,3.99579763909,-20.5813435689
+Cold sore near my mouth ,mouth_face,3.8288483226,-20.4983169789
+I've had sores around my mouth and it burns for 1 week now,mouth_face,5.43871546729,-19.7563430165
+sore lip,mouth_face,6.47482632082,-22.3001994137
+Small sores around my mouth,mouth_face,5.07206540765,-20.8501636072
+sores on my mouth ,mouth_face,5.11546949525,-20.8741023578
+Sore throat,mouth_face,1.32250372386,-19.0109203347
+My throat hurts,mouth_face,1.72783211917,-19.9021381768
+hard to swallow ,mouth_face,5.98131711186,-17.0838284229
+I had a sore throat ,mouth_face,1.30237533159,-18.9346479844
+It has been hurting to swallow for the past few months,mouth_face,5.57801077022,-16.8412919281
+Struggling to eat,mouth_face,-2.70529644934,-4.68197706912
+I have been experiencing symptoms with my throat for the past month and it is now getting worse my voice is changing and I find it hard to swallow food,mouth_face,2.65030756079,-16.3369472185
+It hurts when I swallow,mouth_face,6.11745477302,-17.0776696715
+Cannot swallow,mouth_face,6.05761860339,-17.0865336567
+Constipation ,abdomen,0.362937825933,13.129299077
+I'm constipated,abdomen,1.69223515625,13.7045712181
+Hard to go to the toilet ,abdomen,-2.4497015241,7.11592674228
+Constipation,abdomen,0.362937808184,13.1292990442
+I have been constipated for 3 days,abdomen,0.0660604399489,11.5362963272
+Not opened bowels for 3 days and  difficult to pass. ,abdomen,0.491556863875,10.1258430212
+constipation,abdomen,0.362937797825,13.1292988429
+Stool is hard and lumpy have been constipated for three days ,abdomen,-0.146317703688,9.98123986918
+I'm constipated,abdomen,1.69220295676,13.704554819
+Constipated for 3 days,abdomen,0.0319081264668,11.4466148557
+Head injury,head,-18.426135754,-2.01055274732
+Bruised head and dizzy,head,-18.4158267021,-2.28686001986
+Black eye ,eye,-12.3706248419,12.2324805077
+Head injury,head,-18.4900319371,-2.04533278493
+I hit my head this morning and now I have a bruise and black eye,head,-17.6960954809,-0.757858812608
+Hit head this morning big bruise and black eye. Still in pain felling sleepy and confused. ,head,-17.9524997574,-0.558305575357
+my head is very painful,head,-17.7302800589,-2.19480327436
+Banged head have bruising and black eye painkillers haven't helped feeling sleepy,head,-18.0460290006,-0.515444378382
+I fell over this morning and hit my head. I've bruised my head and feel sleepy,head,-17.4109118798,-1.51217341278
+Pain on head,head,-17.929996864,-2.01567790576
+Ear wax,ear,15.8463593493,-3.55159915848
+I have blocked ears,ear,15.7983528027,-2.69436430327
+Have Earache,ear,13.5909362881,-3.88419054672
+Ear wax,ear,15.8572049933,-3.5319013525
+I have an earache,ear,13.6011194129,-3.87411499187
+Earache for 2 days slight loss of hearing,ear,13.8717702015,-3.88143185384
+i have had a really bad earache for the past few days,ear,13.7447563582,-3.87421544185
+Painful ear and loss od hearing build up of wax,ear,16.1418547608,-3.99514778244
+I have earache,ear,13.6332849256,-3.85501799882
+Hearing loss in left ear,ear,15.3165939247,-3.05994168676
+Pain having sex ,sexual_health,-12.2282698451,3.89326350711
+Sex hurts,sexual_health,-13.0533912455,4.24160715269
+sex is painful,sexual_health,-13.1331059866,4.27850725072
+Pain during sex,sexual_health,-12.1920020508,3.87767866234
+Pain during sex. Vommiting ,sexual_health,-12.2554401048,3.90869630428
+my vagina really hurts,sexual_health,-4.00243250722,19.3576020207
+Have had unprotected sex now have pelvic pano during sex,sexual_health,-13.1092187399,4.36626787822
+I've had some pain during sex,sexual_health,-12.1458473637,3.86221719895
+Pain during sex,sexual_health,-12.1961203618,3.87406361873
+Antibiotics sickness ,abdomen,4.48799264592,-6.85296992816
+Side effect,abdomen,2.67591780911,-3.77271912788
+I feel sick when I take antibiotics,abdomen,-3.73776325074,11.9036453175
+On antibiotic metronidazole. Feeling sick but not vomitting. ,abdomen,-3.9783616038,11.20884411
+i feel very sick,abdomen,0.218615702667,14.6616333649
+I feel nauseated after taking antibiotics ,abdomen,-3.61454012242,12.0649017993
+Nauseous ,abdomen,0.378198304235,14.0849054024
+Bloating and diarrhoea ,abdomen,-0.720689407287,12.5968151857
+Eating makes me bloated and guves me the shits,abdomen,-1.69670676563,11.7673837522
+I got diarrhoea after eating ,abdomen,-0.604637902589,12.544172356
+Bloating and diarrhoea after eating,abdomen,-0.878002025862,12.4936942028
+Bloating and diarrhoea,abdomen,-0.716980672778,12.5926031108
+Bloated ,abdomen,0.603749986294,13.9811532818
+my abdomen is really bloated,abdomen,11.1743054537,16.2122833502
+Bloating and diarrhoea after food,abdomen,-0.83439335518,12.4585790499
+Occasional bloating and diarrhoea after eating,abdomen,-1.04037705716,12.4817505124
+Bloating and diarrhoea ,abdomen,-0.716980674032,12.592603141
+Bad cough,chest,9.44632251193,10.537862517
+Coughing up white stuff,chest,10.948832807,10.5058969823
+Have  cough with white sputum,chest,10.4771272446,10.4489869294
+Shortness of breath,chest,12.5082451034,9.37988164904
+Shortness of breath ,chest,12.5082437125,9.37988190468
+Shortness of breath,chest,12.5082443173,9.37988125163
+coughing white sputum,chest,11.2306938558,10.4473968392
+Bad cough and short of breath,chest,10.5778772166,10.3597014449
+I'm short of breath,chest,12.7284478032,10.2976911389
+Cough with white spectrum ,chest,10.6008085503,10.4957803366
+Burn when urinating ,sexual_health,-0.614256388409,5.98797633707
+Pissing pain,sexual_health,-1.96089632751,4.81373266851
+It burns when I wee,sexual_health,1.38189565963,4.35319063491
+Burning pain when passing urine ,sexual_health,-1.51302156956,5.26394500674
+Pain when passing urine ,sexual_health,-1.50886437727,5.25965252324
+hurts when i pass urine,sexual_health,-0.957344968985,5.27351860443
+Burning pain and lower back pain,sexual_health,14.8121945186,-9.76130850255
+It hurts when I pee,sexual_health,0.467544251611,4.78710394913
+Burning pain passing urine,sexual_health,-1.40534115216,5.27819023481
+I have a painful eye,eye,-11.6669998151,12.4156634479
+red sore eyes,eye,-12.3932413556,12.7868243726
+Red painful eye,eye,-12.2116740402,12.5919332373
+I have a red swollen eye,eye,-12.1505389111,12.5016255167
+I have an sore eye and swollen eylid,eye,-10.6229287595,11.4586720382
+i have a pain in my eye,eye,-11.5721209035,12.8972885793
+"I've woken to a puffy, swollen eyelid though no injuries have take place ",eye,-9.47783356624,11.3593270136
+red eye,eye,-12.4709979918,12.3142075783
+"i woke up with a sore eye, it is also swollen",eye,-10.1225811279,11.4333160308
+Breathlesness,chest,2.34184204374,-2.78321919987
+I have a cough and a runny nose,chest,6.24185099073,10.9730570795
+Cough fever and runny nose,chest,6.33625720667,10.9484175623
+cough phlegm,chest,10.6534075648,10.55680496
+I've had a really bad cough for the past 4 days. It started with a temperature but that's gone now.,chest,9.07394384829,9.2638308042
+I've had a cough for 4 days ,chest,9.42073113896,9.784988481
+I have a cough and runny nose,chest,6.25516599854,10.9747252263
+i have a cough and runny nose,chest,6.25305820847,10.977128997
+"a cough, runny nose and fever started about 4 days ago. other then the fever my symptoms aren't going away ",chest,6.29867285179,10.7427673728
+bad cough,chest,9.43114100973,10.5467320649
+i have had a cold recently but still have a bad cough,chest,9.20294050962,9.97184252085
+i have a sore throat,mouth_face,1.32358597922,-18.9723007524
+Weakness,non-anatomical,3.21036111901,-3.07075834256
+I am feeling dizzy,non-anatomical,-7.69068353446,-3.54553957449
+dizziness not had before,non-anatomical,-7.13395797322,-2.28330619771
+dizzy,non-anatomical,-7.1186171416,-3.37451729865
+I'm feeling dizzy all the time,non-anatomical,-7.77191103234,-3.65698320687
+Dizziness ,non-anatomical,-7.21533047082,-2.70009600075
+I had a sudden bout of dizziness,non-anatomical,-7.00556368341,-2.48873824501
+Why am i feeling dizziness?,non-anatomical,-7.58462855194,-3.01164255718
+Having random bursts of dizziness that last around 30 seconds ,non-anatomical,-6.82668983059,-1.90016813981
+I am feeling dizzy,non-anatomical,-7.66569169674,-3.54297435744
+i have all of a sudden become dizzy,non-anatomical,-6.72494309511,-2.92933035431
+i am dizzy ,non-anatomical,-7.2718956676,-3.7005411817
+Throat ache,mouth_face,1.4779622039,-19.3873982536
+My voice has changed,mouth_face,5.33488576135,-14.520560746
+voice change smoker lost weight,mouth_face,3.83509000931,-14.8872260892
+hoarse voice,mouth_face,4.03318993024,-14.5811249633
+My voice has changed over the last few weeks. It has become hoarser.,mouth_face,5.12328735649,-14.9771065645
+My voice has changed over the last few weeks,mouth_face,5.13671244216,-14.9258338229
+My voice is getting hoarse,mouth_face,5.38581624497,-14.4007585419
+"my voice has been very hoarse for sometime, why is this?",mouth_face,4.97367747857,-14.9559968453
+"my voice has become very hoarse recently, resulting in sounding quite different ",mouth_face,5.08047460242,-14.8751369128
+My voice has changed recently,mouth_face,5.32629067117,-14.5508893699
+my voice has changed over the last few weeks,mouth_face,5.13805997345,-14.9382412756
+i have a hoarse voice ,mouth_face,4.02654051507,-14.6163395949
+I have a nosebleed,nose,5.16841719461,6.50791876328
+nose bleed,nose,-17.7998630359,10.2679355526
+nose bleed,nose,-17.7998666371,10.2679376275
+"I have had a nose bleed, never had them before",nose,-17.8985829362,10.5139563288
+Nose bleeding,nose,-17.8868921505,10.2071487838
+Why is my nose bleeding after brushing my teeth?,nose,-18.0067882301,10.3729923775
+I have had some nose bleed,nose,-17.8415253062,10.327645794
+i woke up this morning and had a nose bleed,nose,-17.7974497493,10.4543299098
+I have been having nose bleeds ,nose,-17.7921514916,10.2388714918
+Fissure,bottom,4.15490450549,-3.01036413931
+It hurts when I poo,bottom,-4.65715952011,5.60928568778
+pain doing poo blood,bottom,-1.26814851913,9.57446896823
+poo blood,bottom,-4.26201900424,4.74768025003
+It's painful when trying to passing stool and i noticed blood on the tissue,bottom,-3.41725428063,3.69407124361
+It's painful when I go to the loo,bottom,-1.97740919648,6.62925253388
+Painful and. Bait of blood in stool,bottom,-3.40938558248,3.73032909302
+i have blood in my poo.,bottom,-4.42362391724,4.19615302821
+im bleeding when passing stool,bottom,-3.46416730467,3.64776718603
+I have had pain when passing stool,bottom,-3.00896666679,4.0678921295
+i have been having some problems passing stools and small amount of blood on toilet paper,bottom,-3.52756057177,3.90190084957
+i can't poo ,bottom,-4.73120727372,5.71727987921
+Facial Hair,mouth_face,-1.94393793884,-11.9286376803
+I have started growing facial hair,mouth_face,-2.16919445424,-11.9170205295
+excess facial hair upper lip,mouth_face,-1.59257148713,-12.3407362239
+excess facial hair,mouth_face,-1.95185341216,-11.8867763241
+Pain in arm,hand,-17.4724907196,-9.70976717835
+I punched a wall and heard a snapping sound,hand,0.417190084557,-2.58710959461
+painful wrist from punching,hand,20.9844249188,2.98006164226
+possible fractured hand,hand,19.1271020381,3.9553264473
+My wrist is really painful,hand,21.193080879,2.77884279022
+I've hurt my wrist,hand,21.043072387,2.83708501243
+Bruised and painful hand,hand,19.2570719742,3.33754305929
+I punched a wall and now my hand really hurts,hand,18.6326452889,4.12836812263
+punched a wall now have a swollen hand ,hand,18.5947828089,3.87684477644
+I have painful wrist,hand,20.9952549466,2.88796523772
+I've hurt my hand and heard a whack,hand,18.9557575191,4.98593409119
+Burn in hand,hand,19.3678546525,4.06995338554
+I burnt my hand,hand,19.7410398368,4.08016580108
+burnt hand while ironing,hand,19.3479894442,4.81885293254
+minor burn on hand,hand,18.9966150395,4.12107691415
+I burnt my hand about 10 minutes ago,hand,19.2241750854,5.25715983128
+Burnt hand with iron,hand,19.2599308331,4.95416260428
+Burnt my hand ironing ,hand,19.5853149367,4.46735717357
+i burnt my hand on the iron,hand,19.2229093133,4.99621872337
+Burnt hand whilst ironing ,hand,19.3261071162,4.86168239194
+I have burnt my hand,hand,19.6197252534,4.09385013384
+"i have burnt my hand on the iron, it has not blistered but sore",hand,18.8939438104,5.03371759012
+i have a minor burn ,hand,3.93729821947,-2.20055326705
+I've got a cold sore ,mouth_face,1.81345872988,-0.366961242941
+I have cracked lips which are very sore,mouth_face,5.89618357311,-22.7308524552
+Cracked lips,mouth_face,5.99947854493,-22.7186818047
+cracked lips,mouth_face,6.3768281251,-22.7717831733
+I have red sore lips ,mouth_face,5.92069983037,-22.735253495
+The corners of my mouth is cracked and painful,mouth_face,4.81837607674,-19.6522037134
+"Hi, I have cracks at the corner of my mouth and they are becoming painful - what could this be?",mouth_face,5.53027093244,-19.7189034348
+My lips are sore,mouth_face,5.95399914475,-22.7559461888
+I have cracks on the corners of my mouth and it is painful,mouth_face,5.41143044161,-19.8965888463
+i have a cracked lip,mouth_face,6.12744358924,-22.3250123576
+feeling ill,mouth_face,-3.68153571778,-2.48394633912
+chest pain,chest,9.95863732518,3.81584357974
+Sharp chest pain on my right side. Difficult to breathe. ,chest,8.74495460288,4.44196839824
+Pains in my chest,chest,10.3113278391,3.91388242308
+I have chest pains ,chest,9.70428395926,4.53625759609
+I have sharp chest pain,chest,9.89546248068,3.74203970852
+"Hi, I am experiencing sudden pain in the right side of my chest, with particularly sharp pain occurring when I breathe in. What could this be?",chest,8.09915662619,4.4925731813
+I've just got really bad chest pain,chest,9.77413023983,3.7628597833
+"My chest hurts on the right side and I'm having trouble breathing, even when sitting down",chest,8.43262236826,4.59028355537
+Cant stop my chest beating rapidly,chest,9.04631106501,4.77805168235
+sudden onset chest pain,chest,9.16113283902,3.57322840855
+I've got abdominal pains ,abdomen,9.34835077254,17.7138077011
+Abdominal pain and vomiting,abdomen,9.11154046132,18.6735519791
+I have really bad stomache pains,abdomen,10.1484773092,15.0016154519
+abdominal pain,abdomen,9.3213012467,18.1669846221
+I'm having stomach pains ,abdomen,10.4867235595,18.2826996553
+I have stomach pains and am sometimes vomiting ,abdomen,7.8140978912,16.3668847079
+"Hi there, I am currently having sporadic abdominal pain with occasional vomiting - each episode lasts a few hours, can you shed some light on this?",abdomen,8.15982489023,16.0717985546
+My tummy hurts,abdomen,11.5125577262,18.5346135405
+"I have been puking and feeling pain in my stomach. This has happened many times over the years, especially when I'm stressed",abdomen,7.88243369043,15.1778279332
+abdominal pain with occasional vomitting,abdomen,9.08256508147,18.3927838585
+can't stop my stomach being in knots,abdomen,11.1746636089,17.9462492411
+sporadic abdominal pains,abdomen,9.24951817968,17.7342997849
+leg vein,leg,-11.0458067157,-12.0961283557
+My legs are hurting ,leg,-11.0581933798,-11.3433067894
+"My legs are swollen and ,y veins on my legs look ugly",leg,-11.0236836552,-10.6353607075
+My legs are swollen with nasty veins and standing has become uncomfortable - the issue is on both sides - what could this be?,leg,-10.9601568991,-10.5114506911
+I've got nasty veins on my legs ,leg,-11.1788976746,-12.3296019794
+I have had swollen legs for months and visible veins which hurt when I stand,leg,-10.8042143556,-10.5020877314
+swollen legs,leg,-10.7966400229,-12.5864767232
+why are my veins popping out,leg,5.22552247524,-4.33864444942
+Urinating more frequently ,sexual_health,-0.638982777025,7.17064150293
+I keep needing to see a lot more often,sexual_health,3.97767621139,0.920618444601
+I think I have a bladder issue ,sexual_health,0.187320804534,8.61672226003
+I have been peeing a lot more recently and I am slightly worried,sexual_health,-0.0316511779158,7.16751325532
+"My urinary frequency has gone up a few notches - I'm not experiencing any pain with it, perhaps you could assist me with this issue?",sexual_health,-3.61565309309,8.91772737455
+I keep going to the loo,sexual_health,-2.05104967719,7.34582355307
+I have to pee all the time and I feel very thirsty,sexual_health,0.423129455738,6.78396326439
+going to urinate more frequently,sexual_health,-0.0948075351608,7.58254326632
+im urinating more than usual and would like to stop,sexual_health,-0.0792384404366,7.60835966326
+urinating frequently ,sexual_health,0.466887545418,6.82227398993
+I've been getting penile discharge ,sexual_health,-4.88383470571,18.7699761183
+"Penile discharge, swollen testicles ",sexual_health,-5.0693316874,19.6803711812
+Discharge in my underwear,sexual_health,-5.64254655258,17.5386398109
+I have discharge coming from my penis ,sexual_health,-6.55145907936,19.9464853381
+It hurts when I wee and my balls are slightly swollen,sexual_health,1.13726350249,4.19487015251
+"I have penile discharge and swollen testicles, what is this?",sexual_health,-4.9804010769,19.9094717111
+There's stuff coming out of my penis,sexual_health,-7.21945302187,20.2841745088
+It hurts when I pee and my balls are swollen. I have sketchy sex,sexual_health,0.863481195987,6.32321857607
+slightly swollen testicles,sexual_health,-7.36438191428,18.64338264
+I'm bleeding through my penis,sexual_health,-7.40492243701,19.7585381503
+I have discharge in my penis and slightly swollen testicles,sexual_health,-5.82963607902,20.1177780799
+Penile discharge,sexual_health,-5.00825849076,18.9869438297
+i felt a breast lump ,breast,3.41353899723,17.9260489354
+Lump in breast,breast,2.78047536486,18.5367980871
+I have a lump in my breast,breast,2.75533678395,18.564300652
+lump in breast,breast,2.781458628,18.5362234059
+I have pain in my breast ,breast,2.8488000122,18.4866822131
+I have just noticed a lump in my breast which I am concerned about ,breast,2.64235191834,18.6836990006
+"I've noticed a lump in one of my breasts, what could this be?",breast,2.43745433839,18.8653397757
+I've found a lump in my breast,breast,2.7591808089,18.559595048
+I have a lump on my breast,breast,2.70907092046,18.6076835253
+lump in one breast,breast,2.74373324107,18.5744895408
+breast is hurting,breast,3.23369633165,18.110368745
+I have a lump in my breast,breast,2.7556851113,18.5616336924
+Lump in one breast ,breast,2.74694631415,18.5698856098
+I've got foot blisters ,foot,-6.45561499564,-17.3795085747
+Blisters on my heel,foot,-6.58773637532,-18.0575483795
+I have a blister on the heel of my foot,foot,-6.50897730978,-17.8018192814
+foot blister,foot,-6.50263352137,-17.363452329
+I have a painful blister ,dermatology,10.6347611535,-1.05346052985
+I have pain when walking,foot,0.553946297971,-0.729910553057
+"I have pain when walking in new shoes, what could this be?",foot,-8.543580677,-17.6087562909
+I've got a blister ,dermatology,10.6839520847,-1.01352962004
+Blister on right heel and it hurts to walk,foot,-6.38040895626,-18.1125466641
+blister on the heel,foot,-6.42404096417,-17.9232093699
+legs hurt when i run,leg,-10.8327641015,-10.7714463549
+I have blisters on the heel of my right foot,foot,-6.48014901588,-17.87205545
+It hurts when I walk,foot,0.220603412257,-0.9339677481
+I've got shoulder pain ,arm,-17.2562969262,-11.025941241
+Sharp pain in my eggs hider and is swollen,arm,-2.56344555073,4.97106839988
+I have shoulder pain,arm,-17.2552819636,-10.9946229811
+shoulder pain,arm,-17.1940073162,-11.0848404179
+Im having bad shoulder pain ,arm,-17.2072385621,-11.0531270651
+Sharp pain in my left shoulder,arm,-17.6489898619,-11.0928352038
+I have sharp pain in my left shoulder following a gym session - what is it?,arm,-16.3692688306,-11.2449808121
+My shoulder really hurts ,arm,-16.9584561736,-11.4101468062
+Hurt my shoulder lifting weights and it's swelling,arm,-16.4137133177,-11.0982978724
+shoulder pain after went to the gym,arm,-16.6670017287,-11.1269563489
+having shoulder spasms,arm,-17.2228496238,-10.893107456
+I have a sharp pain in my left shoulder,arm,-17.6352968383,-11.0623591637
+Pain in my shoulder,arm,-17.5674584199,-11.0564816798
+i think i am short sighted ,eye,3.91591936505,0.377088742599
+Find it hard to see things far away. Squinting to see and headaches. ,eye,-19.4824175074,2.1299000169
+I can't see things far away,eye,-11.4284381979,8.70524855038
+blurred vision,eye,-10.6764046731,9.91657488076
+I'm finding it hard to see ,eye,4.02350222555,0.849165561959
+I am finding it hard to see things that are far away,eye,4.01610328556,0.742833560264
+My sight has become poor over distance - what could this be?,eye,-9.79214839977,10.3747124225
+My vision is poor,eye,-11.6666571063,9.45062384108
+Vision is getting worse from far away resulting in a headache,eye,-19.4665974373,2.16357673484
+poor sight over distance,eye,-10.4072774728,9.72284955328
+my eyes are in pain,eye,-11.474561481,10.7451834891
+I cant see things that are far away,eye,3.93605948859,1.04117553985
+poor sight over distance ,eye,-10.4103949579,9.78078952086
+"very dry eyes, quite itchy ",eye,-12.5208218996,11.3777559203
+I have been suffering from dry eyes for a couple of months,eye,-10.05297823,11.4249169514
+My eyes are dry ,eye,-12.0248662173,10.6060399434
+"Hi Babylon, I have been having problems with my eyes. They are really dry and feel very uncomfortable.",eye,-10.0538913857,11.3443238417
+Why do I suffer from discomfort from dry eyes ,eye,-10.6971743484,12.330828885
+my eyes feel really dry,eye,-11.8845494358,10.5191462978
+My eyes are dry,eye,-12.0133253998,10.6367782533
+"my eyes feel dry and have done for a while, which is quite painful",eye,-9.80164695799,11.3217824768
+Visit GP,eye,3.07129970766,-7.19212647368
+"I have dry eyes, they're not painful but can be uncomfortable",eye,-9.76483905194,11.3624292471
+i feel really hot and cold and my nose is blocked ,nose,-17.9018857795,9.80768959589
+I have had a general headache and fever for 2 days. My symptoms are getting worse.,head,-22.1507109703,0.438248964685
+Dry thoat and tried,mouth_face,4.05403369081,-2.42399429334
+"Hi baby lon, I've been experiencing headaches for the past 2 days. Alongside this I have had a dry cough but I don't seem to be getting any better ",head,-21.7008148287,1.5429346194
+I have been suffering from a headache which has now developed into a cough and flu symptoms which are continuing to get worse ,head,-22.1194659561,1.42527970948
+"I've had a headache, cough and been feeling really shivery and hot",head,-22.3431603111,1.61305405499
+I have a dry cough ,chest,9.45732167613,10.5266653637
+I think I've had a fever for the past two days,non-anatomical,-5.36645379664,-2.43337625817
+Fever ,non-anatomical,-5.53899873646,-2.52854764598
+My chest feels heavy,chest,10.9735263897,3.81503197129
+I am experiencing a shortness in breath after a few minutes of exercise. It has been this way for around two months.,chest,10.3850857582,8.31936817176
+I can't breathe properly,chest,12.9744501668,10.2167145192
+"Hi, I have been experiencing difficulty breathing after I exercise. This has been happening for about 2 months now. ",chest,10.2931047719,8.19651108907
+I've been feeling out of breath for a few weeks when I exercise ,chest,10.1353233366,8.28369786395
+I have chronic breathing problems ,chest,11.6816730768,7.85211384954
+I've got shortness of breath which gets worse after a few minutes of exercise,chest,10.7326022794,8.47195185541
+Shortness of breath ,chest,12.5010442317,9.37698093683
+"I feel short of breath, and this gets worse a few minutes after I start exercising.",chest,10.1408070424,8.26142724752
+my head hurts,head,-17.7335698902,-2.18960552982
+I have had a headache for the past 30 minutes. My head feels like it has a tight band around it.,head,-21.0210389477,0.137428280531
+My head hurts for 30 mins,head,-17.8591087805,-2.21398342558
+"Hi Babylon, I've been having a headache for the past 30 mins. It hurts a lot like a band is around my head.",head,-21.197478259,0.149211307786
+I have a severe headache and my head feels like it's pounding. I have not experienced this before. ,head,-20.8895530814,-0.0740980385732
+my head hurts a lot,head,-17.7905535272,-2.14525123081
+I have a headache ,head,-23.9020726884,-1.01220062322
+I've had a headache for the last half hour that I've never had before,head,-21.5206008014,0.466402745506
+I've had a headache for the last half an hour or so and have not experienced this before,head,-21.451465043,0.382704804615
+my bum hurts,bottom,-1.91462255306,2.50950165061
+I have noticed a lump around my back passage. It has been increasing in size and is now pretty large. It also hurts to sit.,bottom,17.7570365272,-10.2319522157
+I may have piles,bottom,3.97578080272,-1.67014195725
+I have a painful lump around my anus that hurts when I sit down. 8 feel really unwell and it has been getting bigger over the past couple of days ,bottom,-4.27512214561,1.86263742719
+"I have found a lump around my rectum area and is causing me discomfort to sit, it began a week ago and is continuing to increase in size. It is also making me feel unwell ",bottom,-4.34437379827,1.80003106689
+I can feel a lump on my bum ,bottom,-2.8564515982,2.09414869295
+Perivale Abscess,bottom,7.08704421255,-7.5694520418
+I have a large lump around my rectum which is now getting bigger,bottom,-4.41202858829,1.87145330953
+I have an increasingly large lump in my rectum,bottom,-4.6263738365,2.20666769927
+theres a tingle in my arms and legs,arm,-15.1405621305,-7.5814875367
+I have a recurring mild tingling feeling going down my arm. This often happens when I lean on my elbow at work.,arm,-15.7196002163,-8.35037947707
+Tngerly feeling in arm,arm,-17.2876816724,-8.98180419508
+I have a tingling sensation down my arm and it keeps happening slot ,arm,-16.0207500958,-8.51153434468
+I've got pins and needles in my arms and hands ,arm,-16.0220447941,-7.99696443741
+I have a sharp prickling pain over my body ,non-anatomical,1.58560977401,-0.0771363572945
+I've got pins and needles from my arm to my hands which are now tingling all over,arm,-15.9026483339,-8.09329552606
+I have a mild tingling sensation going down my arms into my hands,arm,-15.9799199847,-8.0833048757
+i've got really bad cramps,abdomen,10.8747749545,13.9586859988
+I have been having moderately painful cramping periods for the last 6 months along nausea and mild headaches.,sexual_health,-7.94129022727,6.79663508698
+My period is causing me pain,sexual_health,-8.62893926247,4.30509665418
+I'm having really bad cramps!! It's been happening for the past 6 months ,abdomen,10.8992376199,13.9912396476
+Severe period pains ,sexual_health,-8.21967068795,4.21533769861
+I have menstrual cramps ,sexual_health,-4.17893095034,9.01470841828
+I have really painful periods,sexual_health,-8.37541052811,2.77875370436
+Cramping periods 6 months ,sexual_health,-8.18694828286,5.06936133892
+What can I do to help my painful periods,sexual_health,-2.04674204943,-0.36503425746
+my knee really ached,leg,-9.99179807285,-12.1129440381
+I have pain over the front of my knee. It has been getting worse especially with walking up and down stairs. It is also very stiff in the morning.,leg,-9.23148477913,-11.0532035351
+My knee hurts,leg,-9.87202291883,-12.4016929553
+My knee really hurts. It's been happening for the past few months. I've been experiencing stiffness in the morning and it hurts walking up and down the stairs ,leg,-9.38976892694,-10.9920916481
+Knee pain is getting worse and interfering with daily exercise ,leg,-9.38215066239,-11.0681278689
+i've got a stiff and painful knee,leg,-10.1746644317,-12.7552327919
+My knee is stiff in he morning ,leg,-9.66901841091,-11.5400150158
+Knee Pain,leg,-9.76491636204,-12.698405173
+I have knee pain that's been getting worse over the past couple of months,leg,-9.37495036337,-11.148066864
+Stiffness in knee in the morning no symptoms ,leg,-9.6308153844,-10.8952835974
+I'm getting pain over the front of my knee which is worse on climbing stairs,leg,-9.2633120532,-11.2083385609
+my throat hurts,mouth_face,1.72798298254,-19.9406959496
+"I have a sore throat, dry cough and mild headache. It has been this way for 2 days.",mouth_face,7.84612082212,-11.9016679589
+My throat hurts,mouth_face,1.72786984749,-19.902098238
+My throat hurts so much!,mouth_face,1.73485827399,-19.9555912997
+i've got a sore throat and headache ,mouth_face,7.52034995504,-12.4526089073
+My throat feels dry,mouth_face,1.6814023497,-19.9014185605
+my throat hurts and I have a dry cough plus mild headache,mouth_face,7.85292263852,-11.8798807344
+Sore throat and dry cough ,chest,8.26076129879,10.750883526
+"I have a sore throat, cough and headache",chest,7.79570633292,-11.9887230189
